@@ -16,3 +16,12 @@ Dataset - [DATA](https://drive.google.com/file/d/1Env6bWRNa5t0o-nQ2crhOoPqtuHGFk
   -- From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 Dataset - [DATA](https://drive.google.com/file/d/10s52Tiy9vW1U9Bv--H-0SgH0EGf-1DRD/view?usp=sharing)
+
+## Task 3- Exploratory Data Analysis - Retail
+
+   -- Perform Exploratory Data Analysis on dataset SampleSuperstore. \
+--As a business manager, try to find out the weak areas where you can work to make more profit.
+ > What all business problems you can derive by exploring the data? 
+ 
+ Dataset - [DATA](https://drive.google.com/file/d/1itppJ8URSP6wgO0dXsRk14dbcQ3nPHgg/view?usp=sharing)
+ 
